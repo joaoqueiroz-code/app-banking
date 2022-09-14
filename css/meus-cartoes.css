@@ -1,0 +1,22 @@
+.bandeira-icon {
+    font-size: 4em;
+}
+
+.bandeira {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.saldo-cartao {
+    font-weight: 600;
+}
+.info-cartao {
+    display: flex;
+    width: 65%;
+    justify-content: space-between;
+}
+
+[data-security] {
+    -webkit-text-security: disc;
+}

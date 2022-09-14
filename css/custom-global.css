@@ -1,0 +1,14 @@
+:root {
+    --fundo-body: #e5e5e5;
+    --text-color: #090909f5;
+}
+
+* {
+    margin: 0;
+}
+
+body {
+    font-family: 'Montserrat Alternates', sans-serif;
+    background-color: var(--fundo-body);
+    color: var(--text-color);
+}
